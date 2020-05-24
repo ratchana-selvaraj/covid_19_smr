@@ -1,0 +1,8 @@
+pandas
+folium
+getoldtweets3
+nltk
+plotly
+tflearn
+newsapi
+flask
